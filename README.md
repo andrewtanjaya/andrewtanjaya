@@ -1,7 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="images/me.jpg" align="right" />
 
-I'm [Andrew Wiseson Tanjaya](https://www.linkedin.com/in/andrew-wiseson-tanjaya-363a57192/), I'm currently working on 
+  I'm [Andrew Wiseson Tanjaya](https://www.linkedin.com/in/andrew-wiseson-tanjaya-363a57192/), I'm currently working in Bina Nusantara University as Teaching Assistant.
+
+---
+
 
 <!--
 **andrewtanjaya/andrewtanjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +27,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrewtanjaya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
