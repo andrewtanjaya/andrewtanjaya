@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-  I'm [Andrew Wiseson Tanjaya](https://www.linkedin.com/in/andrew-wiseson-tanjaya-363a57192/), I'm currently working in Bina Nusantara University as Teaching Assistant.
+  I'm [Andrew Wiseson Tanjaya](https://www.linkedin.com/in/andrew-wiseson-tanjaya/), I'm currently working in Bina Nusantara University as Teaching Assistant.
 
 ---
 
